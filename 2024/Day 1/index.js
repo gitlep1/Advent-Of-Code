@@ -1,4 +1,4 @@
-const { list1, list2 } = require("./numArr");
+const { list1, list2 } = require("./handleData");
 
 const sortArrays = (arr) => {
   return (sortedArr = arr.sort((a, b) => {
